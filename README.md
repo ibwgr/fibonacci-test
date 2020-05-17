@@ -1,7 +1,11 @@
 # Install
 
-`yarn install`
+`npm install`
 
-# Start
+# Rum
+
+`node --experimental-modules index.mjs`
+
+# Test
 
 `npm run test`
