@@ -1,6 +1,5 @@
 import assert from 'assert'
 import {fibonacci} from './fibonacci.mjs'
-import {describe, it} from 'mocha'
 
 describe('fibonacci', function(){
     describe('with n = 0', function(){
