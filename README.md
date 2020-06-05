@@ -2,7 +2,7 @@
 
 `npm install`
 
-# Rum
+# Run
 
 `node --experimental-modules index.mjs`
 
