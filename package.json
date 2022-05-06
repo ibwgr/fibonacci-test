@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.mjs",
   "scripts": {
-    "test": "./node_modules/.bin/mocha --experimental-modules *.test.mjs"
+    "test": "./node_modules/.bin/mocha *.test.mjs"
+  },
+  "engines": {
+    "node": ">= 13"
   },
   "author": "Ueli Kunz",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "^7.1.2"
+    "mocha": "^10.0.0"
   }
 }

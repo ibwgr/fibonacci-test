@@ -4,8 +4,8 @@
 
 # Run
 
-`node --experimental-modules index.mjs`
+`node index.mjs`
 
 # Test
 
-`npm run test`
+`npm test`
